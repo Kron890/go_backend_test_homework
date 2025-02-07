@@ -4,9 +4,8 @@ import (
 	"fmt"
 )
 
-// dasd
-// dsadasdasdsa
-// qwewq
+// das
+
 func Add(a, b int) int {
 	return a + b
 }
